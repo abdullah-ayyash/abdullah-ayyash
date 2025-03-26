@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm @abdullah-ayyash 👋
 
-<!--
-**abdullah-ayyash/abdullah-ayyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer with over two years of experience, passionate about **algorithms, backend architecture, and exploring new technologies**. I love building scalable and efficient backend systems while continuously learning and improving my skills.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages:** JavaScript, TypeScript, PHP, Python, C++  
+- **Backend:** Node.js, Express, Laravel, Docker
+- **Frontend:** React, Next.js
+- **Databases:** PostgreSQL, MongoDB, Redis, MySQL
+- **Cloud & DevOps:** AWS, GCP, Azure, Supabase, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I'm Working On
+- Deepening my knowledge of system design and scalable architectures  
+- Experimenting with new backend frameworks and cloud technologies  
+- Improving algorithmic problem-solving skills  
+
+## 📫 Connect With Me
+- GitHub: [abdullah-ayyash](https://github.com/yourusername)
+- LinkedIn: [abdullah-ayyash](https://linkedin.com/in/yourprofile)
+
+Looking forward to collaborating and learning with the community! 🚀
