@@ -15,7 +15,7 @@ I'm a backend developer with over two years of experience, passionate about **al
 - Improving algorithmic problem-solving skills  
 
 ## 📫 Connect With Me
-- GitHub: [abdullah-ayyash](https://github.com/yourusername)
-- LinkedIn: [abdullah-ayyash](https://linkedin.com/in/yourprofile)
+- GitHub: [abdullah-ayyash](https://github.com/abdullah-ayyash)
+- LinkedIn: [abdullah-ayyash](https://linkedin.com/in/abdullah-ayyash)
 
 Looking forward to collaborating and learning with the community! 🚀
